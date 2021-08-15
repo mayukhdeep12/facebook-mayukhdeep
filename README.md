@@ -11,3 +11,10 @@
 3.This is the Designed Facebook Homepage where you will be able to make new posts by attaching images and videos inside the post.
 
 ![homepage](https://user-images.githubusercontent.com/38530748/129479306-6eccc681-eb8f-4c3d-a26c-76b3e627e6c8.JPG)
+
+4. So here is an example of the post by cliking on remove you can remove the image also.
+
+![example](https://user-images.githubusercontent.com/38530748/129479389-f33b1121-7344-48d3-927f-cb90617e060a.JPG)
+
+
+# Thankyou
