@@ -10,8 +10,8 @@ const firebaseConfig = {
   projectId: "facebook-mayukh",
   storageBucket: "facebook-mayukh.appspot.com",
   messagingSenderId: "445630013503",
-  appId: "1:445630013503:web:d6ace7fcdca7377844988a",
-  measurementId: "G-YQXM2JV7G9"
+  appId: "1:445630013503:web:c1f2ba02e9c9ba1544988a",
+  measurementId: "G-CC3NF3ZP6S"
 };
 
 const app = !firebase.apps.length
