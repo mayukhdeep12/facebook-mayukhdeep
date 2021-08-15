@@ -16,5 +16,8 @@
 
 ![example](https://user-images.githubusercontent.com/38530748/129479389-f33b1121-7344-48d3-927f-cb90617e060a.JPG)
 
+### NOTE - Because of some issue live preview is not working will be updating soon
+Live Preview -> https://facebook-mayukhdeep.vercel.app/
+
 
 # Thankyou
