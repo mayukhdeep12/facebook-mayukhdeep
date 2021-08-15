@@ -1,4 +1,0 @@
-Install next.js
-Intall tailwind css
-Developers.facebook.com -> mayukh-app test1 is app name
-yarn add next auth
